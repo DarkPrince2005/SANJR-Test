@@ -5,9 +5,6 @@
   <author href="http://cordova.io" email="dev@cordova.apache.org">Apache Cordova Team </author>
   <content src="index.html" />
   <access origin="*" />
-  <preference name="SplashScreen" value="screen" />
-  <preference name="windows-target-version" value="8.0" />
-  <preference name="windows-phone-target-version" value="8.1" />
   <vs:plugin name="org.apache.cordova.camera" version="0.3.2" />
   <vs:plugin name="org.apache.cordova.media-capture" version="0.3.3" />
   <vs:plugin name="org.apache.cordova.device" version="0.2.12" />
